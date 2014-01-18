@@ -31,6 +31,8 @@ The most things on the Linux Side are in shellscripts and PHP.
 The first official Alpha Version will be released very soon. So please stay tuned
 
 Regards
+
 The Team of ISP-Controle
+
 Oliver Leadprogrammer (shell / php) and Co Founder of ISP-Controle
 Jens Leadprogrammer (VB) and Founder of ISP-Controle
