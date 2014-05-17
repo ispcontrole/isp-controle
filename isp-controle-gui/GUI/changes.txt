@@ -1,0 +1,33 @@
+##############################################################
+#
+# $Author: jkrugel $
+# $Revision: 7 $
+# $LastChangedDate: 2013-08-12 14:40:43 +0200 (Mo, 12 Aug 2013) $
+# $URL: https://svn.isp-controle.de/svn/trunk/isp-controle-gui/GUI/changes.txt $
+# $Date: 2013-08-12 14:40:43 +0200 (Mo, 12 Aug 2013) $
+# $Id: changes.txt 7 2013-08-12 12:40:43Z jkrugel $
+# $Header: https://svn.isp-controle.de/svn/trunk/isp-controle-gui/GUI/changes.txt 7 2013-08-12 12:40:43Z jkrugel $
+#
+##############################################################
+
+1. Windows Form erstellt 
+
+2. TabControls Aktualisiert (Server Info, Domain = www.domain.tld, Mail = Mail Domain, Mail = Mail Konto)
+
+3. Hinzufügen von Port Pruefungsanzeige ... Laufzeit erstellung der Labels (ohne funktion von wirklicher port Pruefung).
+
+4. Entfernt von Port Pruefunganzeige ... da wir dienst Kontrolle machen ... 
+
+5. Hinzufügen von SSH Session über lokalen rnd Port ...
+
+6. Hinzufügen von Auth an Mysql und Anzeige von berechtigung
+
+7. Farbliche veraenderung und Sprachauswahl hinzugefügt ... Aussehen ein wenig angepasst
+
+8. Verschlüsselung der Passwörter angefangen einzubauen ( momentan werden alle PWs auf dem Rechner verteilt und verschlüsselt. ..
+
+9. So Verschlüssellung eingebettet und geprüft jeder bekommt ein einmal passwd zugeteilt bei jedem Verbindungsaufbau ... 
+Beenden Button eingebaut auf der ISPC-Index Seite ...
+
+10. Anmeldung am Server gesichert ... tbfelder sind aktuallisert worden ... 
+
